@@ -18,7 +18,7 @@ When employees create HR Cases, Flow Designer automatically analyzes the short d
 - Captures AI reasoning in “AI Notes”
 
 ## Diagram
-![Flow Diagram](Diagrams/HRSD_AI_Categorization.png)
+![Flow Diagram](Diagrams/Flow Diagram.png)
 
 ## Outcome
 HR cases are automatically categorized based on their short description,
